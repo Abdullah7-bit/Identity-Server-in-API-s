@@ -1,0 +1,1 @@
+C:\Users\MYSQ\source\repos\Book_API\book_api.client\obj\Debug\book_api.client.esproj.CoreCompileInputs.cache

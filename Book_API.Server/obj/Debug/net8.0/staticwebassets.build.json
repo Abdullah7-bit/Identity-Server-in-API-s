@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "e8k8ZCsvpKAVoNhRPcFpC38bSuCuVk98f6nH3ovxM8E=",
+  "Source": "Book_API.Server",
+  "BasePath": "_content/Book_API.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\MYSQ\\source\\repos\\Book_API\\book_api.client\\book_api.client.esproj",
+      "Version": 2,
+      "Source": "book_api.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

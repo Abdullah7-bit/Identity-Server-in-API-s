@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\MYSQ\\source\\repos\\Book_API\\Book_API.Server\\..\\book_api.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
